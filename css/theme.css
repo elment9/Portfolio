@@ -67,7 +67,7 @@
     background-color: #ffffff;
   }
   .bgColor1 {
-    background-color: #f1f1f1 !important;
+    background-color: #f6f6f6 !important;
   }
   .bgColor2 {
     background-color: #ffffff !important;
@@ -77,6 +77,9 @@
   }
   .bgColor4 {
     background-color: #f7f7f7 !important;
+  }
+  .bgColor5 {
+    background-color: #59bb9d !important;
   }
   .tranBgColor-1 {
     background-color: rgba(255, 255, 255, 0.9);
@@ -319,12 +322,12 @@
   }
   /*================================== Footer ==================================*/
   .copyright {
-    color: #9b9b9b;
+    color: #ffffff;
     font-weight: 400;
   }
   .copyright a,
   .foo_social {
-    color: #cbcbcb;
+    color: #ffffff;
   }
   .copyright a:hover,
   .foo_social:hover {
@@ -384,7 +387,7 @@
     margin-bottom: 0;
   }
   .title-style-3 .title-spt {
-    background-color: #dfdfdf;
+    background-color: #59bb9d;
   }
   .title-style-2 .title h2,
   .title-style-2 .tagLine,
@@ -778,7 +781,7 @@
   }
   .counter-2 .counter-name {
     letter-spacing: .1em;
-    font: 400 12px/25px 'Raleway', sans-serif;
+    font: 700 14px/25px 'Raleway', sans-serif
   }
   .counter-2 {
     border-color: #cccccc;
