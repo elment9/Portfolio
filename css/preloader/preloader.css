@@ -40,8 +40,8 @@
     margin: 0 auto;
 }
 
-.trans {
-    color: black;
+.ip-header .ip-logo svg {
+    
 }
 
 .ip-header .ip-logo svg path {
