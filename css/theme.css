@@ -473,8 +473,8 @@
     background-color: rgba(255, 255, 255, 0.5);
   }
   .btn-bdr {
-    border-color: rgba(255, 255, 255, 0.4);
-    color: rgba(255, 255, 255, 0.5);
+    border-color: rgba(255, 255, 255);
+    color: rgba(255, 255, 255);
   }
   .btn-bdr:hover,
   .btn-bdr:focus {
@@ -485,7 +485,7 @@
   .btn-bdr,
   .cbp-l-loadMore-button .cbp-l-loadMore-button-link,
   .cbp-l-loadMore-button .cbp-l-loadMore-button-noMoreLoading {
-    font-size: 12px;
+    font-size: 14px;
     letter-spacing: .1em;
     font-weight: 400;
   }
