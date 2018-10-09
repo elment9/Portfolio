@@ -473,8 +473,8 @@
     background-color: rgba(255, 255, 255, 0.5);
   }
   .btn-bdr {
-    border-color: rgba(255, 255, 255);
-    color: rgba(255, 255, 255);
+    border-color: white;
+    color: white;
   }
   .btn-bdr:hover,
   .btn-bdr:focus {
