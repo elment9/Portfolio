@@ -58,6 +58,11 @@
   .lh-nm {
     line-height: normal;
   }
+    /*================================== Font ==================================*/
+
+  .color-1 {
+    color: #f6f6f6;
+  }
   /*================================== Background Color scheme ==================================*/
   footer,
   section:nth-child(odd) {
