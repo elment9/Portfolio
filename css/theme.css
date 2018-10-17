@@ -1804,9 +1804,11 @@
     color: #ffffff;
   }
   /*================================== Progress bar ==================================*/
-  .skill-bar li .skill-name,
-  .skill-bar li .percentage {
+  .skill-bar li .skill-name {
     color: #202020;
+    }
+  .skill-bar li .percentage {
+    color: #f6f6f6;
   }
   .skill-bar li .progress-bar {
     background-color: #59bb9d;
