@@ -55,13 +55,13 @@
     background-color: #59bb9d;
   }
 /*================================== About / Form ==================================*/
-  #cv-btn {
+  .cv-btn {
     background: #59bb9d;
     color: #ffffff;
     font-weight: 400;
     border-color: #59bb9d;
   }
-  #cv-btn:hover {
+  .cv-btn:hover {
     border-color: #202020;
     background-color: #202020;
   }
