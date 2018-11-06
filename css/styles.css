@@ -3210,3 +3210,8 @@ width: 25px;
 	margin-bottom: 5px;
 }
 
+@media (media) {
+.row row-padding .col-md-6 {
+	width: 100% !important;
+}
+}
